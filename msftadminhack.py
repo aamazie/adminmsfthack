@@ -159,7 +159,9 @@ def run_tests_on_targets(targets):
 
 # List of domains or specific URLs to test
 target_list = [
-    "https://play.google.com/store/apps/details?id=com.travelocity.android", 
+    "https:/admin.microsoft.com",
+    "http://federalreserve.gov",
+    "https://cbi.ir",
 ]
 
 # Run the tests on the list of targets
